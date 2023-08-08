@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\navne\\Downloads\\mysql-connector-java-8.0.30.jar",
+        "c:\\Users\\navne\\Downloads\\rs2xml.jar",
+        "c:\\Users\\navne\\Downloads\\New folder\\mysql-connector-java-8.0.30.jar",
+        "c:\\Users\\navne\\Downloads\\New folder\\rs2xml.jar",
+        "c:\\Users\\navne\\OneDrive\\Documents\\New folder\\mysql-connector-java-8.0.30.jar",
+        "c:\\Users\\navne\\OneDrive\\Documents\\New folder\\rs2xml.jar",
+        "c:\\Users\\navne\\OneDrive\\Documents\\mysql-connector-j-8.0.33.jar",
+        "c:\\Users\\navne\\OneDrive\\Documents\\rs2xml.jar"
+    ]
+}
